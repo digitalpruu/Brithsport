@@ -62,15 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
-      },
-      {
         "name": "Facebook",
         "description": "BRITHSPORT",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/people/Brithsport/61564746660284/"
       }
     ]
   },
